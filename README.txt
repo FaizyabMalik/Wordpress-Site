@@ -3,14 +3,13 @@ Web Application - ePortfolio  Assignment 2 ISYS3004
 ----------------------------------------------------
 
 Name: Faizyab Malik
-ID : 19837365
-Date Due : Due: 23:59, Friday 28 May 2021
+
 Included:
 
 WPVivid backup extracted file which includes all CI/CD Workflow done in the local environment 
 
 Username : Faizyab
-Password : cricabcd@4019
+Password : ???
 
 
 Deployed cloudaccess.net live link : https://faizyabmalik.cloudaccess.host
